@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "TeamViewer Host",
+        "Url": "https://dl.teamviewer.com/download/TeamViewer_Host_Setup_x64.exe",
+        "InstallArgs": "/S /ACCEPTEULA=1",
+        "FileType": "exe"
+    },
+    {
+        "Name": "Firefox",
+        "Url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0.2/win32/en-US/Firefox%20Installer.exe",
+        "InstallArgs": "",
+        "FileType": "exe"
+    },
+    {
+        "Name": "Google Chrome",
+        "Url": "https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi",
+        "InstallArgs": "/quiet /norestart",
+        "FileType": "msi"
+    },
+    {
+        "Name": "Adobe Acrobat Reader",
+        "Url": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2400420220/AcroRdrDC2400420220_de_DE.exe",
+        "InstallArgs": "/sALL",
+        "FileType": "exe"
+    },
+    {
+        "Name": "7-Zip",
+        "Url": "https://7-zip.org/a/7z2301-x64.exe",
+        "InstallArgs": "/S",
+        "FileType": "exe"
+    },
+    {
+        "Name": "VLC Media Player",
+        "Url": "https://mirror.as20647.net/videolan/vlc/3.0.21/win32/vlc-3.0.21-win32.exe",
+        "InstallArgs": "/L=1033 /S",
+        "FileType": "exe"
+    },
+    {
+        "Name": "Notepad++ v8.6.7",
+        "Url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/cdcf6984-a8d4-42a9-b39f-c1f9081a1676?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241122T112149Z&X-Amz-Expires=300&X-Amz-Signature=9f4f9d61b57eecdfe5cf9448e77276ed9d6a30b45e4d5898ca495b7ba5cb3b51&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.6.7.Installer.x64.exe",
+        "InstallArgs": "/S",
+        "FileType": "exe"
+    },
+    {
+        "Name": "Starface v8.1.2.21",
+        "Url": "https://www.starface-cdn.de/starface/clients/Windows/8.1.2.x/STARFACE_v8.1.2.21_x64_Setup.exe",
+        "InstallArgs": "/i /q",
+        "FileType": "exe"
+    },
+    {
+        "Name": "Nextcloud 3.14.3",
+        "Url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/310322773/db6373e4-ec2a-4f98-844a-db5e0d1a5ede?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241122T121704Z&X-Amz-Expires=300&X-Amz-Signature=a179040f4ebfb516aaa8bc30109d56c030cdbffaf65f72a50cb65a989f6aae12&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DNextcloud-3.14.3-x64.msi",
+        "InstallArgs": "",
+        "FileType": "msi"
+    },
+    {
+        "Name": "Jabra Direct",
+        "Url": "https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe",
+        "InstallArgs": "/install /quiet /norestart",
+        "FileType": "exe"
+    },
+    {
+        "Name": "Placeholder2",
+        "Url": "",
+        "InstallArgs": "",
+        "FileType": "exe"
+    }
+]
